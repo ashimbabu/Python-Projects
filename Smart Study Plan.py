@@ -1,4 +1,4 @@
-print("========== Smart Study Planner ==========")
+print("========== Smart Study Plan ==========")
 
 study_plan = []
 
@@ -56,7 +56,7 @@ while True:
             print("Invalid task number.")
 
     elif choice == "5":
-        print("Study Planner closed successfully.")
+        print("Study Plan closed successfully.")
         break
 
     else:
