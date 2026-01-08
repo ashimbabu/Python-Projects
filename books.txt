@@ -1,3 +1,0 @@
-01,English,Ram,Available
-02,Nepali,Hari,Available
-04,Hindi,Gita,Available
