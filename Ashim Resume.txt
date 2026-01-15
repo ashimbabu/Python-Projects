@@ -1,0 +1,6 @@
+Name: Ashim Babu Shrestha
+Education: MSc in GIS and BE in Geomatic Engineering
+Knowledge: GIS, Remote Sensing, GeoAI, Data Science, Data Analysis, Machine Learning, Deep Learning
+Programming: Python, Java, R, SQL
+Software: ArcGIS, QGIS, ERDAS 
+Contact: ashimbabu@gmail.com
