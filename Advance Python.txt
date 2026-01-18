@@ -1,0 +1,4 @@
+1. Web Development - Python Django (Framework) - 3 Months
+2. Data Science and Data Analysis - (Pandas, Numpy, MatPlotLib, Plotly) - 3-4 Months
+3. Machine Learning - (Scikit learn, TransorFlow, Pytorch) - 6 Months
+4. AI and Deep Learning - (OpenCV, Hugging Face Transformers, Spacy, NLTK) (RAG, MultiAgent)
